@@ -9,7 +9,7 @@ description: >-
   REST sense, fixed-format files remain a critical data exchange medium that
   modern APIs and ETL pipelines must read and write.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/fixed-format/refs/heads/main/apis.yml
 created: '2025-01-01'
