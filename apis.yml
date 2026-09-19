@@ -40,6 +40,15 @@ specificationVersion: '0.23'
 tags:
   - Data Exchange
   - Data Formats
+  - File Format
+  - Fixed Format
+  - Fixed Width
+  - Flat Files
+  - Legacy Systems
+  - Mainframe
+tags_raw:
+  - Data Exchange
+  - Data Formats
   - File Formats
   - Fixed Format
   - Fixed Width
